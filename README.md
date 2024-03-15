@@ -1,5 +1,5 @@
 # Google-Clone
-**Project Title: Build a Google Search Page Clone with HTML/CSS**
+** Build a Google Search Page Clone with HTML/CSS**
 
 **Description:**
 
